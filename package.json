@@ -1,0 +1,21 @@
+{
+  "name": "node-status-check",
+  "version": "0.0.1",
+  "description": "Simple POST requests handler",
+  "engines": {
+    "node": "8.9.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "request": "^2.81.0",
+    "tape": "^4.7.0"
+  },
+  "license": "MIT"
+}
